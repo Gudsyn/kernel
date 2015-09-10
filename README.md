@@ -1,2 +1,2 @@
-# kernel
-here i come
+# 
+i'm a physicist and a developer
